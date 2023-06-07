@@ -36,9 +36,16 @@ To run this script, you can use the command:
 ## Outputs
 
 - "Canny edges": Image with edges detected by the Canny edge detector.
+![image](https://github.com/anush97/Hough-CannyDetection/assets/32952140/e7490ace-5ce2-4184-a35a-21b8b5b19c8d)
+
 - "Mask": Binary mask of the ROI.
+![image](https://github.com/anush97/Hough-CannyDetection/assets/32952140/81a8b7e3-a62c-47dd-bef1-8d3ad8c96485)
+
 - "Edges within ROI": Image with edges detected within the ROI.
+![image](https://github.com/anush97/Hough-CannyDetection/assets/32952140/2f375f50-2d5d-4014-ace8-2e9ea9487f0d)
+
 - "Detected Edges": Final result showing two detected lines on the original image.
+![image](https://github.com/anush97/Hough-CannyDetection/assets/32952140/7a536f9d-113a-4d03-8620-2fdd4ee1cf58)
 
 ## Notes
 
